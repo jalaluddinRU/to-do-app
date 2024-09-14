@@ -1,0 +1,43 @@
+.first_heading
+{
+    padding: 30px;
+    text-align: center;
+    background-color:#033158;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: #3A83C0;
+    border-radius: 30px;
+}
+
+.main-table
+{
+    
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+}
+
+.new-task-button
+{
+    text-align: center;
+}
+
+.task-button
+{
+    font-size: 20px;
+    color: white;
+    text-size-adjust: 20px;
+    border: none;
+    border-radius: 15px;
+    background-color: #27B18B;
+    align-items: center;
+    width: 25%;
+    padding: 15px;
+    margin-top: 20px;
+    
+}
+
+.task-button:hover 
+{
+    background-color: #4DC1A1;
+}
