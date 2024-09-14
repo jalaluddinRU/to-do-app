@@ -90,8 +90,9 @@
     </script>
     <script>
         $(document).ready(function (e) {
-            alert();
+            alert(hello world);
         });
+        
     </script>
 </body>
 </html>
