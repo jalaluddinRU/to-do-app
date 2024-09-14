@@ -90,7 +90,7 @@
     </script>
     <script>
         $(document).ready(function (e) {
-            alert(hello world);
+            // alert('hello world');
         });
         
     </script>

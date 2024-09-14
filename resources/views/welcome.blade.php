@@ -3,7 +3,7 @@
     <div class="container">
         <h1 class="first_heading">Welcome to my To Do App</h1>
         <div class="new-task-button">
-            <button class="task-button" onclick="alert('hola amigo')">
+            <button class="task-button" data-bs-toggle="modal" data-bs-target="#exampleModal" >
                 <i class="fa-solid fa-circle-plus add-icon"></i>  Add New Task            
             </button>
         </div>
@@ -37,5 +37,5 @@
             alert(20);
         }
     </script>
-    
+@include ('add_new_task') 
 @endsection

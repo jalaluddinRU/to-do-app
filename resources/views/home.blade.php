@@ -20,4 +20,5 @@
         </div>
     </div>
 </div>
+@include('add_new_task')
 @endsection
